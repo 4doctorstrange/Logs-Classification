@@ -1,3 +1,3 @@
 # Logs-Classification
 
-Developing Model which will help to classify logs.
+Developing Model which will help to classify logs
